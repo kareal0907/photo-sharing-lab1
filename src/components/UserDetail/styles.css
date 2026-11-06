@@ -1,0 +1,10 @@
+.user-detail-card {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.user-detail-card .MuiButton-root {
+  align-self: flex-start;
+  white-space: nowrap;
+}
